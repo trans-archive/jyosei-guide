@@ -1,0 +1,9 @@
+{{- $preload := .Get "preload" | default "metadata" -}}
+<figure>
+<audio controls preload="{{ $preload }}">
+{{- with .Get "src" -}}
+{{- $resource := resources.Get . -}}
+<source src="{{ $resource.Permalink }}" type="audio/mpeg" />
+{{- end -}}
+</audio>
+</figure>

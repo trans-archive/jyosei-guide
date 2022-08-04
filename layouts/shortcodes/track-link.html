@@ -1,0 +1,4 @@
+{{- with .Get 0 -}}
+{{- $resource := resources.Get . -}}
+<a href="{{ $resource.Permalink }}">音轨 {{ path.BaseName . | strings.TrimPrefix "0" }}</a>
+{{- end -}}

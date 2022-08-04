@@ -1,0 +1,37 @@
+title: 成为女孩子的声音！
+description: 该系列图书结合了 插画、音频 和 基础训练手段 的 伪声训练书籍，同时也有让声音变得更好听的效果。
+baseURL: https://mtf-wiki.github.io/jyosei-guide/
+theme: hugo-book
+
+disableKinds: ["taxonomy", "taxonomyTerm", "RSS"]
+
+languageCode: zh-hans
+defaultContentLanguage: zh
+hasCJKLanguage: true
+timeZone: Asia/Shanghai
+
+minify: true
+enableGitInfo: true
+
+menu:
+  after:
+    - name: MtF.wiki
+      url: https://mtf.wiki
+      weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      autoHeadingIDType: github-ascii
+
+params:
+  BookTheme: auto
+  BookRepo: https://github.com/mtf-wiki/jyosei-guide
+  BookEditPath: edit/main
+  BookDateFormat: 2006 年 01 月 02 日
+  BookSearch: true
+  BookComments: false
+  BookPortableLinks: false
+  BookServiceWorker: false

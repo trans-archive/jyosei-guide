@@ -1,0 +1,47 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - .github
+      - .vscode
+      - README.md
+      - LICENSE
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+      - uses: actions/setup-node@v2
+      - run: npx markdownlint-cli .
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+      - name: Build
+        run: hugo --minify
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: public
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1

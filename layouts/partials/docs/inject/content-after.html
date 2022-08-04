@@ -1,0 +1,6 @@
+<article class="markdown">
+  <hr>
+  <p>本文仅供学习所用，严禁转载或商业加工，任何需求请联系译者 (<a href="mailto:nao@sakuras.jp">佐倉奈緒</a>）</p>
+</article>
+{{ $customize_js := resources.Get "customize.js" | resources.Minify | resources.Fingerprint "sha512" }}
+<script src="{{ $customize_js.Permalink }}" integrity="{{ $customize_js.Data.Integrity }}"></script>
