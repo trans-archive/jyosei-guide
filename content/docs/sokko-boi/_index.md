@@ -50,3 +50,10 @@ Google Book：<https://books.google.com/books?id=bxGISasIW7kC>
 附带的 CD 中，收录了锻炼本声和假声的训练内容音轨。\
 在本书中出现【音轨 X】的时候，请同时听取其内容，然后继续进行练习。\
 跟随着本书的练习，祝各位都能够接近理想的声音。
+
+---
+
+原文：
+
+- 成为女孩子的声音！【0】目录及注意事项\
+  <https://zhuanlan.zhihu.com/p/45974316>
