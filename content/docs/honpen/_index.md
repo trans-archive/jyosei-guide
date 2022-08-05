@@ -11,7 +11,7 @@ description: 这是一本结合了 插画、音频 和 基础训练手段 的 �
 {{< /tabs >}}
 
 原作：[女の子の声になろう！](https://www.shuwasystem.co.jp/book/9784798023304.html)\
-ISBN：978-4-7980-2330-4 C0076\
+ISBN：978-4-7980-2330-4\
 作者：[七ノ瀬](https://www.shuwasystem.co.jp/author/a181950.html)\
 插图：べたにゃ\
 出版：[秀和システム](https://www.shuwasystem.co.jp)\

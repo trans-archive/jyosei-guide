@@ -1,1 +1,1 @@
-<blockquote class="shortcode">{{ .Inner }}</blockquote>
+<blockquote class="shortcode">{{ replace .Inner "\n" "<br>" | safeHTML }}</blockquote>
