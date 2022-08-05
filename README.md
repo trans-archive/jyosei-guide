@@ -18,7 +18,7 @@
 请控制好每天的练习时间，在出现不适时及时停止练习。
 
 本书的部分练习项目需要有日语最基础的 [五十音](https://zh.wikipedia.org/wiki/五十音) 基础，
-译者将会使用 [日文](https://zh.wikipedia.org/wiki/日文) 和 [注音](https://zh.wikipedia.org/wiki/注音) 两种手段帮助大家进行练习。
+译者将会使用 [日文](https://zh.wikipedia.org/wiki/日文) 和 [注音假名](https://zh.wikipedia.org/wiki/注音假名) 两种手段帮助大家进行练习。
 
 祝愿大家能够获得所期望的声音！
 
