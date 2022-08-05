@@ -12,7 +12,7 @@ description: 附录 3：发声样式 - 成为女孩子的声音！
 
 绊爱（KizunaAI）面试选自：
 
-- [ときのそらチャンネル](https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg)
+- [ときのそらチャンネル](https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg)\
   <https://video.zhihu.com/video/1048277589696847872>
 - [av21016013](https://www.bilibili.com/video/av21016013)\
   【warma】我喜欢爱酱！！（绊爱面试）
