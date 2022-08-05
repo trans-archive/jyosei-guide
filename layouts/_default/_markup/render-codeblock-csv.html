@@ -1,7 +1,9 @@
 {{ $rows := .Inner | transform.Unmarshal }}
 <table class="csv-table">
+{{- if .Attributes.header | default true }}
 <thead><tr>{{ range (index $rows 0) }}<th>{{- . -}}</th>{{ end }}</tr></thead>
 {{- $rows = after 1 $rows -}}
+{{- end }}
 <tbody>
 {{ range $rows -}}
 <tr>{{ range . }}<td>{{- . | markdownify -}}</td>{{ end }}</tr>

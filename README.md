@@ -4,7 +4,7 @@
 
 本项目是基于 <https://www.zhihu.com/column/weisheng> 的重新整理
 
-如需转载授权或有其他疑问请通过 <nao@sakuras.jp> 联系译者（佐倉奈緒）
+如需转载授权或有其他疑问请通过 <nao@sakuras.jp> 联系译者（佐倉 奈緒）
 
 ## 本项目包括的图书
 

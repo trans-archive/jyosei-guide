@@ -13,7 +13,7 @@ description: 该系列图书结合了 插画、音频 和 基础训练手段 的
 
 本项目是基于 <https://www.zhihu.com/column/weisheng> 的重新整理
 
-如需转载授权或有其他疑问请通过 <nao@sakuras.jp> 联系译者（佐倉奈緒）
+如需转载授权或有其他疑问请通过 <nao@sakuras.jp> 联系译者（佐倉 奈緒）
 
 ## 译者的话
 

@@ -10,13 +10,15 @@ description: 这是一本结合了 插画、音频 和 基础训练手段 的 �
 {{< tab "底封" >}}![底封](back-cover.jpg){{< /tab >}}
 {{< /tabs >}}
 
-原作：[女の子の声になろう！](https://www.shuwasystem.co.jp/book/9784798023304.html)\
-ISBN：978-4-7980-2330-4\
-作者：[七ノ瀬](https://www.shuwasystem.co.jp/author/a181950.html)\
-插图：べたにゃ\
-出版：[秀和システム](https://www.shuwasystem.co.jp)\
-翻译：[佐倉 奈緒](https://www.zhihu.com/people/sakuranao)\
-Google Book：<https://books.google.com/books?id=q_vYXUukqr0C>
+```csv { header = false }
+原作,[女の子の声になろう！](https://www.shuwasystem.co.jp/book/9784798023304.html)
+ISBN,`978-4-7980-2330-4`
+作者,[七ノ瀬](https://www.shuwasystem.co.jp/author/a181950.html)
+插图,べたにゃ
+出版,[秀和システム](https://www.shuwasystem.co.jp)
+翻译,[佐倉 奈緒](https://www.zhihu.com/people/sakuranao)
+Google Book,<https://books.google.com/books?id=q_vYXUukqr0C>
+```
 
 > 译者的话：
 >

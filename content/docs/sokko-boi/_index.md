@@ -10,14 +10,16 @@ description: 这是一本结合了 插画、音频 和 基础训练手段 的 �
 {{< tab "底封" >}}![底封](back-cover.jpg){{< /tab >}}
 {{< /tabs >}}
 
-原作：[女の子の声になろう！即効ボイトレ編](https://www.shuwasystem.co.jp/book/9784798029023.html)\
-ISBN：978-4-7980-2902-3\
-作者：[白石謙二](https://www.shuwasystem.co.jp/author/a182244.html)\
-插图：べたにゃ\
-出版：[秀和システム](https://www.shuwasystem.co.jp)\
-翻译：[佐倉 奈緒](https://www.zhihu.com/people/sakuranao)\
-CD-ROM：<https://www.shuwasystem.co.jp/support/7980html/2902.html>\
-Google Book：<https://books.google.com/books?id=bxGISasIW7kC>
+```csv { header = false }
+原作,[女の子の声になろう！即効ボイトレ編](https://www.shuwasystem.co.jp/book/9784798029023.html)
+ISBN,`978-4-7980-2902-3`
+作者,[白石 謙二](https://www.shuwasystem.co.jp/author/a182244.html)
+插图,べたにゃ
+出版,[秀和システム](https://www.shuwasystem.co.jp)
+翻译,[佐倉 奈緒](https://www.zhihu.com/people/sakuranao)
+CD-ROM,<https://www.shuwasystem.co.jp/support/7980html/2902.html>
+Google Book,<https://books.google.com/books?id=bxGISasIW7kC>
+```
 
 > 译者的话：
 >
