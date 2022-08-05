@@ -8,7 +8,7 @@
 
 ## 本项目包括的图书
 
-- [成为女孩子的声音！即效嗓音训练篇](https://mtf-wiki.github.io/jyosei-guide/docs/sokko-boitore-hen/)
+- [成为女孩子的声音！即效嗓音训练篇](https://mtf-wiki.github.io/jyosei-guide/docs/sokko-boi/)
 - [成为女孩子的声音！](https://mtf-wiki.github.io/jyosei-guide/docs/honpen/)
 
 ## 译者的话
