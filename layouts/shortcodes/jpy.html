@@ -1,0 +1,3 @@
+{{- $value := .Get 0 | float -}}
+{{- $qs := querify "Amount" $value "From" "JPY" "To" "CNY" -}}
+<a href="https://www.xe.com/currencyconverter/convert/?{{ $qs | safeURL }}">{{ lang.FormatCurrency 0 "JPY" $value }}</a>
