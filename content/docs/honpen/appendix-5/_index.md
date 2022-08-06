@@ -9,52 +9,41 @@ description: 附录 5：以音乐锻炼假声 - 成为女孩子的声音！
 
 这里以译者用作练习的曲目进行介绍吧，这些曲目中的速度均不快，如果想以其他曲目练习，请以男女对唱的歌曲为优先，曲速不宜过快，练习的时候每个字应清晰地发出。
 
-练习的时候尽量选择 2~3 首的歌曲进行反复练习，调整假声，如果可能的话，可以在歌唱的时候找到歌词中的语气抑扬代入到日常对话中进行女声练习。
+练习的时候尽量选择 2 ~ 3 首的歌曲进行反复练习，调整假声，如果可能的话，可以在歌唱的时候找到歌词中的语气抑扬代入到日常对话中进行女声练习。
 
-## 推荐曲目（汉语）{#chinese}
+## 推荐曲目 {#recommended-songs}
 
-- 男女对唱
+{{< tabs "songs" >}}
+{{< tab "汉语" >}}
 
-  - [北京东路的日子 - 群星](https://youtu.be/kBu8vUkk2S0)\
-    （[练习方法]({{< ref "#beijing-dong-lu-de-rizi" >}})）
+- 请以**正常的**假声进行练习\
+  [我的歌声里 - 曲婉婷](https://youtu.be/w0dMz8RBG7g)（独唱 - 女）
+- 请以**正常的**假声，和**较高的**假声进行练习\
+  [小情歌 - 苏打绿](https://youtu.be/in8NNzwFa-s) （独唱 - 男）\
+  [当你 - 林俊杰](https://youtu.be/aFd8EluIJV8) （独唱 - 男） \
+  [樱花草 - Sweety](https://youtu.be/vYcl7cw8gWo) （独唱 - 女）
+- 男声部分以**较低的**假声，女声部分以**正常的**假声进行练习\
+  [好心分手 - 卢巧音/王力宏](https://youtu.be/v04DzjzSb5w)（男女对唱）\
+  [北京东路的日子 - 群星](https://youtu.be/kBu8vUkk2S0)（男女对唱，[练习方法]({{< ref "#beijing-dong-lu-de-rizi" >}})）
 
-  - [好心分手 - 卢巧音/王力宏](https://youtu.be/v04DzjzSb5w)\
-    （男声部分以较低的假声，女声部分以正常的假声进行练习）
+{{< /tab >}}
+{{< tab "日语" >}}
 
-- 独唱 - 男
-
-  - [小情歌 - 苏打绿](https://youtu.be/in8NNzwFa-s)\
-    （请以正常的假声，和较高的假声进行练习）
-
-  - [当你 - 林俊杰](https://youtu.be/aFd8EluIJV8)\
-    （请以正常的假声，和较高的假声进行练习）
-
-- 独唱 - 女
-
-  - [我的歌声里 - 曲婉婷](https://youtu.be/w0dMz8RBG7g)\
-    （请以正常的假声进行练习）
-
-  - [樱花草 - Sweety](https://youtu.be/vYcl7cw8gWo)\
-    （请以正常的假声，和较高的假声进行练习）
-
-## 推荐曲目（日语）{#japanese}
-
-- 请以正常的假声进行练习\
+- 请以**正常的**假声进行练习\
   [夕暮れ - THE ROLLING GIRLS](https://youtu.be/PFRSkMr7yu8)
-
-- 请以较高的假声进行练习\
+- 请以**较高的**假声进行练习\
   [僕たちはひとつの光 - μ's](https://youtu.be/RcYtUeu4EqQ)
-
-- 请以正常的假声，和较低的假声进行练习\
+- 请以**正常的**假声，和**较低的**假声进行练习\
   [Freesia - (K)NoW_NAME](https://youtu.be/0RpfxB4CkDg)
-
-- 请以正常的假声，和较高的假声进行练习\
+- 请以**正常的**假声，和**较高的**假声进行练习\
   [キセキ～未来へ～ - whiteeeen](https://youtu.be/RbdJwV7wFr4)\
   [僕らの手はなにもないけど、 - RAM WIRE](https://youtu.be/TXpGWhdwXuo)
-
-- 男声部分以较低的假声，女声部分以正常的假声进行练习\
+- 男声部分以**较低的**假声，女声部分以**正常的**假声进行练习\
   [また君と - JAY’ed](https://youtu.be/POWjzvXhMEQ)\
   [また君と - Ms.OOJA](https://youtu.be/nWziQCs0uVc)
+
+{{< /tab >}}
+{{< /tabs >}}
 
 ## “北京东路的日子” 的练习方法 {#beijing-dong-lu-de-rizi}
 
@@ -63,6 +52,8 @@ description: 附录 5：以音乐锻炼假声 - 成为女孩子的声音！
 歌词前面标有【男】的部分，请以较低的假声来唱
 
 歌词前面标有【合唱】的部分，请以正常的假声来唱
+
+{{< details "练习方法" >}}
 
 ```quote
 开始的开始 我们都是孩子
@@ -107,6 +98,8 @@ description: 附录 5：以音乐锻炼假声 - 成为女孩子的声音！
 【女】歌谣的歌谣 藏着童话的影子
 【男】孩子的孩子 该要飞往哪去
 ```
+
+{{< /details >}}
 
 ---
 
