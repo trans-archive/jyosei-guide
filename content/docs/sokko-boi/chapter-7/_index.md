@@ -104,7 +104,7 @@ description: 第七章 实录篇 - 成为女孩子的声音！即效嗓音训练
 
 因为是专业的歌手使用的器材，可以拾取细小的声音，同时价格也相对较高，是动圈式麦克风的数倍价格。
 
-> （编辑注）备选产品：
+> 编辑注，备选产品：
 > [Blue&reg; Yeti](https://www.bluemic.com/zh-cn/products/yeti/)、
 > [Shure&reg; SM58](https://www.shure.com/zh-CN/products/microphones/sm58)、
 > [Shure&reg; SM57](https://www.shure.com/zh-CN/products/microphones/sm57)、

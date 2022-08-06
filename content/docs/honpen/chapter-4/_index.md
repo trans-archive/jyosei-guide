@@ -122,8 +122,8 @@ description: 第四章 具体的练习方法 - 成为女孩子的声音！
 同时，因为对于这个练习来说比起扬声器来说头戴式耳机在特性上更有利，所以在这里推荐使用头戴式耳机。
 如果是头戴式耳机的话虽然用什么都可以，个人来说推荐索尼 SONY 的 MDR-CD900ST。
 
-> （编辑注）{{< timeliness-tip >}}，
-> Sony MDR-CD900ST（1989 年上市） 的下一代产品为 Sony MDR-M1ST（2019 年上市）
+> 编辑注：{{< timeliness-tip >}}，
+> Sony MDR-CD900ST（上市于 1989 年） 的下一代产品为 Sony MDR-M1ST（上市于 2019 年）
 
 {{< figure src="figure-01.jpg" title="图 01" >}}
 
