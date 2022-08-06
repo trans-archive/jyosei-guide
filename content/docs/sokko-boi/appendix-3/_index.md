@@ -6,7 +6,7 @@ description: 附录 3：发声样式 - 成为女孩子的声音！即效嗓音�
 ---
 
 译者在这里为大家找到了 5 种有特点的女孩子的声音，
-声音来自 {{< wiki "花开伊吕波" >}}（[花咲くいろは](https://ja.wikipedia.org/wiki/花咲くいろは)）
+声音来自 {{< wiki "花开伊吕波" >}}（[{{< ruby 花咲 はなさ >}}くいろは](https://ja.wikipedia.org/wiki/花咲くいろは)）
 中角色的 {{< wiki "能登铁道" >}} 发车广播，因为发车广播中没有背景音乐，可以仔细听取声音的特点。
 
 并且，每个人的车内广播都有细小的差别，这些细小的差别也刚好表现了人物的性格。并且，在下面同时摘录了维基百科上关于角色的介绍以及车内广播的原文和翻译。
@@ -17,7 +17,7 @@ description: 附录 3：发声样式 - 成为女孩子的声音！即效嗓音�
 {{< tab "松前 绪花" >}}
 
 [松前 绪花](https://zh.moegirl.org.cn/zh/松前绪花)，
-[松前 緒花（まつまえ おはな）](http://www.hanasakuiroha.jp/chara/ohana.html)，
+[{{< ruby 松前 まつまえ 緒花 おはな >}}](http://www.hanasakuiroha.jp/chara/ohana.html)，
 CV：{{< wiki "伊藤加奈惠" >}}
 
 声音印象：活泼
@@ -34,7 +34,7 @@ CV：{{< wiki "伊藤加奈惠" >}}
 在雪洞祭时向孝一坦承自己也喜欢孝一。\
 名字是父亲取的，由来是夏威夷语中的“ohana”意思是“家人”。
 
-## 音轨 17 出发前广播 七尾方面（松前 绪花）
+## 音轨 17 出发前广播 七尾方面（松前 绪花） {#track-17}
 
 {{< audio src="sokko-boi-appendix/17.mp3" >}}
 
@@ -58,7 +58,7 @@ CV：{{< wiki "伊藤加奈惠" >}}
 {{< /tab >}}
 {{< tab "鹤来 民子" >}}
 [鹤来 民子](https://zh.moegirl.org.cn/zh/鹤来民子)，
-[鶴来 民子（つるぎ みんこ）](http://www.hanasakuiroha.jp/chara/minko.html)，
+[{{< ruby 鶴来 つるぎ 民子 みんこ >}}](http://www.hanasakuiroha.jp/chara/minko.html)，
 CV：{{< wiki "小见川千明" >}}
 
 声音印象：沉稳
@@ -74,7 +74,7 @@ CV：{{< wiki "小见川千明" >}}
 在学校被称为民子公主，有着如公主般高贵淡漠的气质而很有人气，曾被多名男学生告白，但都很干脆的拒绝了，认为有喜欢的人就不能接受对方告白。\
 立志要当厨师的动机是小时候常在月底常与父母去买三餐用食材，顺路去商店街的餐厅吃饭时看到厨师在厨房工作感到憧憬，及被热血料里漫画《流浪菜刀铁平》里的主角铁平所感动。
 
-## 音轨 18 出发前广播 七尾方面（鹤来 民子）
+## 音轨 18 出发前广播 七尾方面（鹤来 民子） {#track-18}
 
 {{< audio src="sokko-boi-appendix/18.mp3" >}}
 
@@ -99,7 +99,7 @@ CV：{{< wiki "小见川千明" >}}
 
 {{< /tab >}}
 {{< tab "鹤来 民子" >}} [押水 菜子](https://zh.moegirl.org.cn/zh/押水菜子)，
-[押水 菜子（おしみず なこ）](http://www.hanasakuiroha.jp/chara/nako.html)，
+[{{< ruby 押水 おしみず 菜子 なこ >}}](http://www.hanasakuiroha.jp/chara/nako.html)，
 CV：{{< wiki "丰崎爱生" >}}
 
 声音印象：温柔
@@ -114,7 +114,7 @@ CV：{{< wiki "丰崎爱生" >}}
 3 岁时就在游泳学校学习泳技，泳术十分了得，小时候有个外号“小河童”。\
 因为身为教师的双亲工作忙碌，两个弟弟和一个妹妹都由身为长女的菜子一手照顾。
 
-## 音轨 19 出发前广播 七尾方面（押水 菜子）
+## 音轨 19 出发前广播 七尾方面（押水 菜子） {#track-19}
 
 {{< audio src="sokko-boi-appendix/19.mp3" >}}
 
@@ -140,7 +140,7 @@ CV：{{< wiki "丰崎爱生" >}}
 {{< /tab >}}
 {{< tab "和仓 结名" >}}
 [和仓 结名](https://zh.moegirl.org.cn/zh/和仓结名)，
-[和倉 結名（わくら ゆいな）](http://www.hanasakuiroha.jp/chara/yuina.html)，
+[{{< ruby 和倉 わくら 結名 ゆいな >}}](http://www.hanasakuiroha.jp/chara/yuina.html)，
 CV：{{< wiki "户松遥" >}}
 
 声音印象：活泼
@@ -156,7 +156,7 @@ CV：{{< wiki "户松遥" >}}
 但在修学旅行中对洋辅坦白，她喜欢的事没有“经营旅馆”这个项目而拒绝。\
 旅行的第二天傍晚，在绪花的刺激下第一次尝试了清扫大浴室，开始对旅馆的工作产生了一丝兴趣。在离开前回答洋辅两人的婚约“未定”。
 
-## 音轨 20 出发前广播 七尾方面（和仓 结名）
+## 音轨 20 出发前广播 七尾方面（和仓 结名） {#track-20}
 
 {{< audio src="sokko-boi-appendix/20.mp3" >}}
 
@@ -182,7 +182,7 @@ CV：{{< wiki "户松遥" >}}
 {{< /tab >}}
 {{< tab "轮岛 巴" >}}
 [轮岛 巴](https://zh.moegirl.org.cn/zh/轮岛巴)，
-[輪島 巴（わじま ともえ）](http://www.hanasakuiroha.jp/chara/tomoe.html)，
+[{{< ruby 輪島 わじま 巴 ともえ >}}](http://www.hanasakuiroha.jp/chara/tomoe.html)，
 CV：{{< wiki "能登麻美子" >}}
 
 声音印象：成熟
@@ -194,7 +194,7 @@ CV：{{< wiki "能登麻美子" >}}
 后来也认同自己适合这份工作，被绪花和菜子称做“巴姐姐”。\
 在喜翠庄宣告暂时性闭馆后到居酒屋工作。
 
-## 音轨 21 出发前广播 七尾方面（轮岛 巴）
+## 音轨 21 出发前广播 七尾方面（轮岛 巴） {#track-21}
 
 {{< audio src="sokko-boi-appendix/21.mp3" >}}
 

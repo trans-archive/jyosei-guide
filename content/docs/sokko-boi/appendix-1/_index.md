@@ -5,9 +5,9 @@ bookToC: false
 description: 附录 1：CD 收录内容 - 成为女孩子的声音！即效嗓音训练篇
 ---
 
-## CD 中音轨的构成如下
+## CD 中音轨的构成如下 {#cd-tracks}
 
-### 本音的练习
+### 本音的练习 {#original-voice}
 
 ```csv
 编号,介绍
@@ -35,7 +35,7 @@ description: 附录 1：CD 收录内容 - 成为女孩子的声音！即效嗓�
 {{< track-link "sokko-boi-track/22.mp3" >}},样式 13
 ```
 
-### 假声的练习
+### 假声的练习 {#falsetto}
 
 ```csv
 编号,介绍
@@ -58,7 +58,7 @@ description: 附录 1：CD 收录内容 - 成为女孩子的声音！即效嗓�
 {{< track-link "sokko-boi-track/39.mp3" >}},样式 13
 ```
 
-### 其他的练习
+### 其他的练习 {#more}
 
 ```csv
 编号,介绍
@@ -70,7 +70,7 @@ description: 附录 1：CD 收录内容 - 成为女孩子的声音！即效嗓�
 {{< track-link "sokko-boi-track/45.mp3" >}},演技练习 4
 ```
 
-## 音轨下载
+## 音轨下载 {#download-link}
 
 <https://www.shuwasystem.co.jp/support/7980html/2902.html>
 
