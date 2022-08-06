@@ -1,7 +1,1 @@
-{{- range $index, $text := .Params }}
-  {{- if mod $index 2 -}}
-    <rp>(</rp><rt>{{ $text }}</rt><rp>)</rp></ruby>
-  {{- else -}}
-    <ruby>{{- $text -}}
-  {{- end }}
-{{- end -}}
+<ruby>{{ .Get 0 }}<rp>(</rp><rt>{{ .Get 1 }}</rt><rp>)</rp></ruby>

@@ -17,7 +17,7 @@ description: 附录 3：发声样式 - 成为女孩子的声音！即效嗓音�
 {{< tab "松前 绪花" >}}
 
 [松前 绪花](https://zh.moegirl.org.cn/zh/松前绪花)，
-[{{< ruby 松前 まつまえ 緒花 おはな >}}](http://www.hanasakuiroha.jp/chara/ohana.html)，
+[{{< ruby 松前 まつまえ >}} {{< ruby 緒花 おはな >}}](http://www.hanasakuiroha.jp/chara/ohana.html)，
 CV：{{< wiki "伊藤加奈惠" >}}
 
 声音印象：活泼
@@ -58,7 +58,7 @@ CV：{{< wiki "伊藤加奈惠" >}}
 {{< /tab >}}
 {{< tab "鹤来 民子" >}}
 [鹤来 民子](https://zh.moegirl.org.cn/zh/鹤来民子)，
-[{{< ruby 鶴来 つるぎ 民子 みんこ >}}](http://www.hanasakuiroha.jp/chara/minko.html)，
+[{{< ruby 鶴来 つるぎ >}} {{< ruby 民子 みんこ >}}](http://www.hanasakuiroha.jp/chara/minko.html)，
 CV：{{< wiki "小见川千明" >}}
 
 声音印象：沉稳
@@ -99,7 +99,7 @@ CV：{{< wiki "小见川千明" >}}
 
 {{< /tab >}}
 {{< tab "鹤来 民子" >}} [押水 菜子](https://zh.moegirl.org.cn/zh/押水菜子)，
-[{{< ruby 押水 おしみず 菜子 なこ >}}](http://www.hanasakuiroha.jp/chara/nako.html)，
+[{{< ruby 押水 おしみず >}} {{< ruby 菜子 なこ >}}](http://www.hanasakuiroha.jp/chara/nako.html)，
 CV：{{< wiki "丰崎爱生" >}}
 
 声音印象：温柔
@@ -140,7 +140,7 @@ CV：{{< wiki "丰崎爱生" >}}
 {{< /tab >}}
 {{< tab "和仓 结名" >}}
 [和仓 结名](https://zh.moegirl.org.cn/zh/和仓结名)，
-[{{< ruby 和倉 わくら 結名 ゆいな >}}](http://www.hanasakuiroha.jp/chara/yuina.html)，
+[{{< ruby 和倉 わくら >}} {{< ruby 結名 ゆいな >}}](http://www.hanasakuiroha.jp/chara/yuina.html)，
 CV：{{< wiki "户松遥" >}}
 
 声音印象：活泼
@@ -182,7 +182,7 @@ CV：{{< wiki "户松遥" >}}
 {{< /tab >}}
 {{< tab "轮岛 巴" >}}
 [轮岛 巴](https://zh.moegirl.org.cn/zh/轮岛巴)，
-[{{< ruby 輪島 わじま 巴 ともえ >}}](http://www.hanasakuiroha.jp/chara/tomoe.html)，
+[{{< ruby 輪島 わじま >}} {{< ruby 巴 ともえ >}}](http://www.hanasakuiroha.jp/chara/tomoe.html)，
 CV：{{< wiki "能登麻美子" >}}
 
 声音印象：成熟
