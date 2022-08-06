@@ -106,8 +106,9 @@ description: 第七章 实录篇 - 成为女孩子的声音！即效嗓音训练
 
 > 编辑注，备选产品：
 > [Blue&reg; Yeti](https://www.bluemic.com/zh-cn/products/yeti/)、
-> [Shure&reg; SM58](https://www.shure.com/zh-CN/products/microphones/sm58)、
-> [Shure&reg; SM57](https://www.shure.com/zh-CN/products/microphones/sm57)、
+> [Shure&reg; SM58](https://www.shure.com/zh-cn/products/microphones/sm58)、
+> [Shure&reg; SM57](https://www.shure.com/zh-cn/products/microphones/sm57)、
+> [Shure&reg; MV7](https://www.shure.com/zh-cn/products/microphones/mv7)、
 > [Rode&reg; NT-USB](https://rode.com/cn/microphones/usb/nt-usb)、
 > [Rode&reg; NT-USB Mini](https://rode.com/cn/microphones/usb/nt-usb-mini)
 
