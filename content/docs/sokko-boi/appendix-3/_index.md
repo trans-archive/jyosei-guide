@@ -36,7 +36,7 @@ CV：{{< wiki "伊藤加奈惠" >}}
 
 ## 音轨 17 出发前广播 七尾方面（松前 绪花） {#track-17}
 
-{{< audio src="sokko-boi-appendix/17.mp3" >}}
+{{< audio "sokko-boi-appendix/17.mp3" >}}
 
 ```quote
 本日は、のと鉄道をご利用いただき
@@ -76,7 +76,7 @@ CV：{{< wiki "小见川千明" >}}
 
 ## 音轨 18 出发前广播 七尾方面（鹤来 民子） {#track-18}
 
-{{< audio src="sokko-boi-appendix/18.mp3" >}}
+{{< audio "sokko-boi-appendix/18.mp3" >}}
 
 ```quote
 本日は、のと鉄道をご利用いただき
@@ -116,7 +116,7 @@ CV：{{< wiki "丰崎爱生" >}}
 
 ## 音轨 19 出发前广播 七尾方面（押水 菜子） {#track-19}
 
-{{< audio src="sokko-boi-appendix/19.mp3" >}}
+{{< audio "sokko-boi-appendix/19.mp3" >}}
 
 ```quote
 本日は、のと鉄道をご利用いただき
@@ -158,7 +158,7 @@ CV：{{< wiki "户松遥" >}}
 
 ## 音轨 20 出发前广播 七尾方面（和仓 结名） {#track-20}
 
-{{< audio src="sokko-boi-appendix/20.mp3" >}}
+{{< audio "sokko-boi-appendix/20.mp3" >}}
 
 ```quote
 こにちは、本日はのと鉄道をご利用いただき
@@ -196,7 +196,7 @@ CV：{{< wiki "能登麻美子" >}}
 
 ## 音轨 21 出发前广播 七尾方面（轮岛 巴） {#track-21}
 
-{{< audio src="sokko-boi-appendix/21.mp3" >}}
+{{< audio "sokko-boi-appendix/21.mp3" >}}
 
 ```quote
 本日は、のと鉄道をご利用いただきありがとうございます

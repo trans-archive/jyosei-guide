@@ -117,7 +117,7 @@ description: 第四章 尝试着进行假声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 23】一边进行实践。
 
-{{< audio src="sokko-boi-track/23.mp3" >}}
+{{< audio "sokko-boi-track/23.mp3" "唇颤音" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -132,7 +132,7 @@ description: 第四章 尝试着进行假声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 24】一边进行实践。
 
-{{< audio src="sokko-boi-track/24.mp3" >}}
+{{< audio "sokko-boi-track/24.mp3" "舌颤音" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -155,7 +155,7 @@ description: 第四章 尝试着进行假声练习吧 - 成为女孩子的声音
 以音阶上的 `So#` 音进行发声。
 请伴随着 CD 的声音进行发声。
 
-{{< audio src="sokko-boi-track/25.mp3" >}}
+{{< audio "sokko-boi-track/25.mp3" "发声练习“哈”" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -179,7 +179,7 @@ description: 第四章 尝试着进行假声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 26】一边进行实践。
 
-{{< audio src="sokko-boi-track/26.mp3" >}}
+{{< audio "sokko-boi-track/26.mp3" "高音域的“哈”" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -205,7 +205,7 @@ description: 第四章 尝试着进行假声练习吧 - 成为女孩子的声音
 虽然是和第三章的练习相近，在这里以假声进行练习。同时，发声将会主要以日语中的ほ（hō）行进行，在这一点上也和前面有所不同。请一边听添付 CD 的【音轨 27】一边进行实践。
 所有的音都以音阶上的 Mi 音发出。
 
-{{< audio src="sokko-boi-track/27.mp3" >}}
+{{< audio "sokko-boi-track/27.mp3" "样式 1" >}}
 
 ```quote
 hō（1 拍）
@@ -232,7 +232,7 @@ hō（1 拍）
 以下的练习，请一边听添付 CD 的【音轨 28】一边进行实践。
 所有的音都以音阶上的 Mi 音发出。
 
-{{< audio src="sokko-boi-track/28.mp3" >}}
+{{< audio "sokko-boi-track/28.mp3" "样式 2" >}}
 
 ```quote
 hō（1 拍）
@@ -259,7 +259,7 @@ hō（1 拍）
 以下的练习，请一边听添付 CD 的【音轨 29】一边进行实践。
 （以音阶上的 Mi 音各半拍）
 
-{{< audio src="sokko-boi-track/29.mp3" >}}
+{{< audio "sokko-boi-track/29.mp3" "样式 3" >}}
 
 ```quote
 hō hō hō hō hō hō hō hō
@@ -279,7 +279,7 @@ hō hō hō hō hō hō hō hō hō
 以下的练习，请一边听添付 CD 的【音轨 30】一边进行实践。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/30.mp3" >}}
+{{< audio "sokko-boi-track/30.mp3" "样式 4" >}}
 
 ```quote
 哈（Mi 音 1 拍）
@@ -302,7 +302,7 @@ hō hō hō hō hō hō hō hō hō
 以下的练习，请一边听添付 CD 的【音轨 31】一边进行实践。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/31.mp3" >}}
+{{< audio "sokko-boi-track/31.mp3" "样式 5" >}}
 
 ```quote
 哈 哈（Mi 音各 1 拍）
@@ -325,7 +325,7 @@ hō hō hō hō hō hō hō hō hō
 以下的练习，请一边听添付 CD 的【音轨 32】一边进行实践。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/32.mp3" >}}
+{{< audio "sokko-boi-track/32.mp3" "样式 6" >}}
 
 ```quote
 哈 哈 哈 哈（Mi 音各 1 拍）
@@ -348,7 +348,7 @@ hō hō hō hō hō hō hō hō hō
 以下的练习，请一边听添付 CD 的【音轨 33】一边进行实践。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/33.mp3" >}}
+{{< audio "sokko-boi-track/33.mp3" "样式 7" >}}
 
 ```quote
 哈————————（Mi 音 1 拍）
@@ -372,7 +372,7 @@ hō hō hō hō hō hō hō hō hō
 以下的练习，请一边听添付 CD 的【音轨 34】一边进行实践。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/34.mp3" >}}
+{{< audio "sokko-boi-track/34.mp3" "样式 8" >}}
 
 ```quote
 拂 拂拂 拂拂 拂拂 拂拂（Mi 音全 9 拍）
@@ -399,7 +399,7 @@ hō hō hō hō hō hō hō hō hō
 因为是以假声追寻音阶，难度稍有提高。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/35.mp3" >}}
+{{< audio "sokko-boi-track/35.mp3" "样式 9" >}}
 
 ```quote
 hī（Mi 音）
@@ -427,7 +427,7 @@ hī hī（Fa# Mi 音）
 以下的练习，请一边听添付 CD 的【音轨 36】一边进行实践。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/36.mp3" >}}
+{{< audio "sokko-boi-track/36.mp3" "样式 10" >}}
 
 ```quote
 啦 蕾 哩 咯（Mi 音各半拍）
@@ -450,7 +450,7 @@ Mi~Si 的音阶各为一组进行练习。
 以下的练习，请一边听添付 CD 的【音轨 37】一边进行实践。
 练习逐渐提高了音的数量，虽然假声的集中变得更加困难，但在这里反而不放弃，集中练习于此，将会能够发出更加自然的假声。
 
-{{< audio src="sokko-boi-track/37.mp3" >}}
+{{< audio "sokko-boi-track/37.mp3" "样式 11" >}}
 
 ```quote
 咔 keī kī 扣咔 keī kī 扣咔 keī kī 扣咔 keī kī 扣
@@ -475,7 +475,7 @@ Mi~Si 的音阶各为一组进行练习。
 如果发不出声音的话，请不要勉强，稍作休息吧。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/38.mp3" >}}
+{{< audio "sokko-boi-track/38.mp3" "样式 12" >}}
 
 ```quote
 撒 sei 诗 苏 sei 嗖 撒 嗖
@@ -496,7 +496,7 @@ Mi~Si 的音阶各为一组进行练习。
 以下的练习，请一边听添付 CD 的【音轨 39】一边进行实践。
 全部以本音的音阶上的音发声。
 
-{{< audio src="sokko-boi-track/39.mp3" >}}
+{{< audio "sokko-boi-track/39.mp3" "样式 13" >}}
 
 ```quote
 他 teī 吃粗偷他偷他 teī 吃粗偷他偷
@@ -556,13 +556,13 @@ Mi~Si 的音阶各为一组进行练习。
 包括轻松的发声练习。
 首先请像添付 CD 的【音轨 40】一样找到音阶以“啊——”发声。
 
-{{< audio src="sokko-boi-track/40.mp3" >}}
+{{< audio "sokko-boi-track/40.mp3" "混声练习 1" >}}
 
 **尝试发出混声**
 
 接下来进行从本音发声中途转换到假声的发声练习。请像添付 CD 的【音轨 41】一样发声。
 
-{{< audio src="sokko-boi-track/41.mp3" >}}
+{{< audio "sokko-boi-track/41.mp3" "混声练习 2" >}}
 
 （先以本音）啊———（中途转换成假声）———
 
@@ -574,7 +574,7 @@ Mi~Si 的音阶各为一组进行练习。
 向本音中掺杂少许呼吸的话，应该可以进行良好的转换。
 因为掌握技巧是最重要的，所以只有跟随着【音轨 41】反复进行练习。
 
-{{< audio src="sokko-boi-track/41.mp3" >}}
+{{< audio "sokko-boi-track/41.mp3" "混声练习 2" >}}
 
 ## 其他的言语练习 {#more}
 

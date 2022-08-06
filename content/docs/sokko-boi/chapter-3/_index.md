@@ -26,7 +26,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 1】一边进行实践。
 
-{{< audio src="sokko-boi-track/01.mp3" >}}
+{{< audio "sokko-boi-track/01.mp3" "腹式呼吸练习 1" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -58,7 +58,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 2】一边进行实践。
 
-{{< audio src="sokko-boi-track/02.mp3" >}}
+{{< audio "sokko-boi-track/02.mp3" "腹式呼吸练习 2" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -86,7 +86,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 3】一边进行实践。
 
-{{< audio src="sokko-boi-track/03.mp3" >}}
+{{< audio "sokko-boi-track/03.mp3" "断音换气" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -117,7 +117,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 4】一边进行实践。
 
-{{< audio src="sokko-boi-track/04.mp3" >}}
+{{< audio "sokko-boi-track/04.mp3" "唇颤音" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -143,7 +143,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 5】一边进行实践。
 
-{{< audio src="sokko-boi-track/05.mp3" >}}
+{{< audio "sokko-boi-track/05.mp3" "舌颤音" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -172,7 +172,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 以下的练习，请一边听添付 CD 的【音轨 6】一边进行实践。
 以下“嗯”的部分，请尝试保持在闭紧嘴的状态下发声。
 
-{{< audio src="sokko-boi-track/06.mp3" >}}
+{{< audio "sokko-boi-track/06.mp3" "哼唱" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -195,7 +195,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 7】一边进行实践。
 
-{{< audio src="sokko-boi-track/07.mp3" >}}
+{{< audio "sokko-boi-track/07.mp3" "发声练习“啊”" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -221,7 +221,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 以下的练习，请一边听添付 CD 的【音轨 8】一边进行实践。
 和一样以“嗯”的发音进行发声吧。
 
-{{< audio src="sokko-boi-track/08.mp3" >}}
+{{< audio "sokko-boi-track/08.mp3" "高音域的哼唱" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -240,7 +240,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 
 接下来，移动到添付 CD 的【音轨 9】进行。
 
-{{< audio src="sokko-boi-track/09.mp3" >}}
+{{< audio "sokko-boi-track/09.mp3" "高音域的“啊”" >}}
 
 ```quote
 吸入空气（4 拍）
@@ -268,7 +268,7 @@ description: 第三章 尝试着进行发声练习吧 - 成为女孩子的声音
 
 以下的练习，请一边听添付 CD 的【音轨 10】一边进行实践。
 
-{{< audio src="sokko-boi-track/10.mp3" >}}
+{{< audio "sokko-boi-track/10.mp3" "样式 1" >}}
 
 ```quote
 nā（Mi 音 1 拍）
@@ -294,7 +294,7 @@ nā（Mi 音 1 拍）
 
 以下的练习，请一边听添付 CD 的【音轨 11】一边进行实践。
 
-{{< audio src="sokko-boi-track/11.mp3" >}}
+{{< audio "sokko-boi-track/11.mp3" "样式 2" >}}
 
 ```quote
 nā（Mi 音 1 拍）
@@ -320,7 +320,7 @@ nā（Mi 音 1 拍）
 
 以下的练习，请一边听添付 CD 的【音轨 12】一边进行实践。
 
-{{< audio src="sokko-boi-track/12.mp3" >}}
+{{< audio "sokko-boi-track/12.mp3" "样式 3" >}}
 
 ```quote
 nā nā nā nā nā nā nā nā
@@ -339,7 +339,7 @@ nā nā nā nā nā nā nā nā nā（Mi 音各半拍）
 
 以下的练习，请一边听添付 CD 的【音轨 13】一边进行实践。
 
-{{< audio src="sokko-boi-track/13.mp3" >}}
+{{< audio "sokko-boi-track/13.mp3" "样式 4" >}}
 
 ```quote
 妈（Mi 音各 1 拍）
@@ -361,7 +361,7 @@ nā nā nā nā nā nā nā nā nā（Mi 音各半拍）
 
 以下的练习，请一边听添付 CD 的【音轨 14】一边进行实践。
 
-{{< audio src="sokko-boi-track/14.mp3" >}}
+{{< audio "sokko-boi-track/14.mp3" "样式 5" >}}
 
 ```quote
 妈 妈（Mi 音各 1 拍）
@@ -383,7 +383,7 @@ nā nā nā nā nā nā nā nā nā（Mi 音各半拍）
 
 以下的练习，请一边听添付 CD 的【音轨 15】一边进行实践。
 
-{{< audio src="sokko-boi-track/15.mp3" >}}
+{{< audio "sokko-boi-track/15.mp3" "样式 6" >}}
 
 ```quote
 妈 妈 妈 妈（Mi 音各半拍）
@@ -405,7 +405,7 @@ nā nā nā nā nā nā nā nā nā（Mi 音各半拍）
 
 以下的练习，请一边听添付 CD 的【音轨 16】一边进行实践。
 
-{{< audio src="sokko-boi-track/16.mp3" >}}
+{{< audio "sokko-boi-track/16.mp3" "样式 7" >}}
 
 ```quote
 啦——————（Mi 音 8 拍）
@@ -426,7 +426,7 @@ nā nā nā nā nā nā nā nā nā（Mi 音各半拍）
 
 以下的练习，请一边听添付 CD 的【音轨 17】一边进行实践。
 
-{{< audio src="sokko-boi-track/17.mp3" >}}
+{{< audio "sokko-boi-track/17.mp3" "样式 8" >}}
 
 ```quote
 nā nā nā nā nā nā nā nā nā（Mi 音全 9 拍）
@@ -450,7 +450,7 @@ nā nā nā nā nā nā nā nā nā（Re 音全 9 拍）
 
 以下的练习，请一边听添付 CD 的【音轨 18】一边进行实践。
 
-{{< audio src="sokko-boi-track/18.mp3" >}}
+{{< audio "sokko-boi-track/18.mp3" "样式 9" >}}
 
 ```quote
 妈（Mi 音）
@@ -472,7 +472,7 @@ nā nā nā nā nā nā nā nā nā（Re 音全 9 拍）
 
 以下的练习，请一边听添付 CD 的【音轨 19】一边进行实践。
 
-{{< audio src="sokko-boi-track/19.mp3" >}}
+{{< audio "sokko-boi-track/19.mp3" "样式 10" >}}
 
 ```quote
 啦 蕾 哩 咯（Mi 音各半拍）
@@ -494,7 +494,7 @@ nā nā nā nā nā nā nā nā nā（Re 音全 9 拍）
 
 以下的练习，请一边听添付 CD 的【音轨 20】一边进行实践。
 
-{{< audio src="sokko-boi-track/20.mp3" >}}
+{{< audio "sokko-boi-track/20.mp3" "样式 11" >}}
 
 ```quote
 啦累哩咯啦累哩咯啦累哩咯
@@ -513,7 +513,7 @@ nā nā nā nā nā nā nā nā nā（Re 音全 9 拍）
 
 以下的练习，请一边听添付 CD 的【音轨 21】一边进行实践。
 
-{{< audio src="sokko-boi-track/21.mp3" >}}
+{{< audio "sokko-boi-track/21.mp3" "样式 12" >}}
 
 ```quote
 撒 sei 诗 苏 sei 嗖 撒 嗖
@@ -533,7 +533,7 @@ nā nā nā nā nā nā nā nā nā（Re 音全 9 拍）
 
 以下的练习，请一边听添付 CD 的【音轨 22】一边进行实践。
 
-{{< audio src="sokko-boi-track/22.mp3" >}}
+{{< audio "sokko-boi-track/22.mp3" "样式 13" >}}
 
 ```quote
 撒 sei 诗苏 sei 嗖撒嗖撒 sei 诗苏 sei 嗖撒嗖

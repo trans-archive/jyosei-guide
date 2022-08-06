@@ -56,14 +56,14 @@ description: 附录 1：CD 收录内容 - 成为女孩子的声音！即效嗓�
 {{< track-link "sokko-boi-track/37.mp3" >}},样式 11
 {{< track-link "sokko-boi-track/38.mp3" >}},样式 12
 {{< track-link "sokko-boi-track/39.mp3" >}},样式 13
+{{< track-link "sokko-boi-track/40.mp3" >}},混声练习 1
+{{< track-link "sokko-boi-track/41.mp3" >}},混声练习 2
 ```
 
 ### 其他的练习 {#more}
 
 ```csv
 编号,介绍
-{{< track-link "sokko-boi-track/40.mp3" >}},混声练习 1
-{{< track-link "sokko-boi-track/41.mp3" >}},混声练习 2
 {{< track-link "sokko-boi-track/42.mp3" >}},演技练习 1
 {{< track-link "sokko-boi-track/43.mp3" >}},演技练习 2
 {{< track-link "sokko-boi-track/44.mp3" >}},演技练习 3
