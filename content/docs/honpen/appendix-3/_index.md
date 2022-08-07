@@ -15,7 +15,7 @@ description: 附录 3：发声样式 - 成为女孩子的声音！
 
 [【warma】我喜欢爱酱！！（绊爱面试）](https://www.bilibili.com/video/av21016013)
 
-**包括下列场景**
+**面试包括以下场景：**
 
 ```grid-list
 可爱地
