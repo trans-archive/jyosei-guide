@@ -1,0 +1,23 @@
+{{- $name := .Get 0 -}}
+<table class="track-list">
+<thead><tr><th>编号</th><th>介绍</th></tr></thead>
+<tbody>
+{{- range sort (index .Site.Data $name) -}}
+{{- $index := path.BaseName .path | strings.TrimPrefix "0" -}}
+<tr>
+  <td><a href="{{ (resources.Get .path).Permalink }}" target="player" data-caption="音轨 {{ $index }}：{{ .caption }}">音轨 {{ $index }}</a></td>
+  <td>{{ .caption }}</td>
+</tr>
+{{- end -}}
+</tbody>
+</table>
+<figure class="audio-player">
+  <figcaption>
+    <b>N/A</b>
+  </figcaption>
+  <audio
+    controls
+    crossorigin="anonymous"
+    preload="metadata"
+  >
+</figure>

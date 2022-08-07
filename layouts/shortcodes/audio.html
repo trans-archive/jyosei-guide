@@ -1,11 +1,13 @@
-{{- $resource := resources.Get (.Get 0) -}}
+{{- $name := .Get 0 -}}
+{{- $index := .Get 1 | string -}}
+{{- $track := (index (index .Site.Data $name) $index) -}}
 <figure class="audio-player">
-  {{- with (.Get 1) }}
-  <figcaption><b>{{ . }}</b></figcaption>
-  {{- end }}
+  <figcaption>
+    <b>音轨 {{ $index }}：{{ $track.caption }}</b>
+  </figcaption>
   <audio
     controls loop
-    src="{{ $resource.Permalink }}"
+    src="{{ (resources.Get $track.path).Permalink }}"
     crossorigin="anonymous"
     preload="metadata"
   >

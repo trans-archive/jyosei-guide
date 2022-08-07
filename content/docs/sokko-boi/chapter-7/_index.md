@@ -380,7 +380,7 @@ Windows 10：开始菜单 → 所有程序 → [语音录音机](https://support
 
 伴随着添付 CD 的【音轨 42】尝试着说出吧。
 
-{{< audio "sokko-boi-track/42.mp3" "演技练习 1" >}}
+{{< audio sokko-boi-track 42 >}}
 
 {{< tabs acting-1 >}}
 {{< tab "样式 1" >}}
@@ -420,7 +420,7 @@ Windows 10：开始菜单 → 所有程序 → [语音录音机](https://support
 
 伴随着添付 CD 的【音轨 43】尝试着说出吧。
 
-{{< audio "sokko-boi-track/43.mp3" "演技练习 2" >}}
+{{< audio sokko-boi-track 43 >}}
 
 {{< tabs acting-2 >}}
 {{< tab "样式 1" >}}
@@ -460,7 +460,7 @@ Windows 10：开始菜单 → 所有程序 → [语音录音机](https://support
 
 伴随着添付 CD 的【音轨 44】尝试着说出吧。
 
-{{< audio "sokko-boi-track/44.mp3" "演技练习 3" >}}
+{{< audio sokko-boi-track 44 >}}
 
 {{< tabs acting-3 >}}
 {{< tab "样式 1" >}}
@@ -500,7 +500,7 @@ Windows 10：开始菜单 → 所有程序 → [语音录音机](https://support
 
 伴随着添付 CD 的【音轨 45】尝试着说出吧。
 
-{{< audio "sokko-boi-track/45.mp3" "演技练习 4" >}}
+{{< audio sokko-boi-track 45 >}}
 
 {{< tabs acting-4 >}}
 {{< tab "样式 1" >}}
