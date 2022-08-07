@@ -5,7 +5,7 @@ page.addEventListener(
   (event) => {
     if (event.target.tagName !== "AUDIO") return;
     const elements = event.currentTarget.getElementsByTagName("audio");
-    Array.from(elements).forEach(function (element) {
+    Array.from(elements).forEach((element) => {
       if (element === event.target) return;
       element.pause();
       element.currentTime = 0;
