@@ -18,9 +18,17 @@ figure.audio-player audio {
   width: 100%;
 }
 
-img[data-thumbnail] {
-  background-repeat: no-repeat;
-  background-size: 100%;
+figure.image {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  overflow: hidden;
+  img[data-thumbnail] {
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  figcaption {
+    text-align: center;
+  }
 }
 
 .grid-list {

@@ -1,8 +1,9 @@
 {{- $src := .Get "src" -}}
 {{- $resource := .Page.Resources.Get $src -}}
 {{- $title := .Get "title" | default $resource.Title -}}
+{{- $hashtag := .Get "hashtag" | default (path.BaseName $src) | anchorize -}}
 {{- $thumbnail := $resource.Resize "64x" | images.Filter (images.GaussianBlur 5) -}}
-<figure>
+<figure class="image" id="{{ $hashtag }}">
   <img
     src="{{ $resource.Permalink }}"
     width="{{ $resource.Width }}"
@@ -11,6 +12,6 @@
     style="background-image: url('data:{{ $thumbnail.MediaType }};base64,{{ $thumbnail.Content | base64Encode }}')"
   >
   {{- with $title -}}
-  <figcaption><h4>.</h4></figcaption>
+  <figcaption><h4>{{ . }}</h4></figcaption>
   {{- end -}}
 </figure>
