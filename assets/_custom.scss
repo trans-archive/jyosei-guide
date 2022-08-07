@@ -19,8 +19,8 @@ figure.audio-player audio {
 }
 
 figure.image {
-  border: 1px solid #ccc;
-  border-radius: 15px;
+  border: $padding-1 solid var(--gray-200);
+  border-radius: $border-radius;
   overflow: hidden;
   img[data-thumbnail] {
     background-repeat: no-repeat;
