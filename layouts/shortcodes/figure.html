@@ -1,0 +1,16 @@
+{{- $src := .Get "src" -}}
+{{- $resource := .Page.Resources.Get $src -}}
+{{- $title := .Get "title" | default $resource.Title -}}
+{{- $thumbnail := $resource.Resize "64x" | images.Filter (images.GaussianBlur 5) -}}
+<figure>
+  <img
+    src="{{ $resource.Permalink }}"
+    width="{{ $resource.Width }}"
+    height="{{ $resource.Height }}"
+    data-thumbnail
+    style="background-image: url('data:{{ $thumbnail.MediaType }};base64,{{ $thumbnail.Content | base64Encode }}')"
+  >
+  {{- with $title -}}
+  <figcaption><h4>.</h4></figcaption>
+  {{- end -}}
+</figure>
