@@ -2,6 +2,8 @@
   blockquote.shortcode {
     overflow: auto;
     white-space: nowrap;
+    font-family: ui-monospace, "Fira Mono", "DejaVu Sans Mono", Menlo, Consolas,
+      "Liberation Mono", Monaco, "Lucida Console", monospace;
   }
   h1,
   h2,
@@ -10,7 +12,10 @@
   h5,
   h6 {
     margin-top: 0;
-    padding-top: 1em;
+    padding-top: $padding-16;
+  }
+  details {
+    margin-top: $padding-16;
   }
 }
 
@@ -34,6 +39,5 @@ figure.image {
 
 .grid-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(10em, 1fr));
-  grid-gap: 0.3em;
+  grid-template-columns: repeat(auto-fill, minmax(9em, 1fr));
 }
