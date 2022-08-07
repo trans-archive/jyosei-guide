@@ -14,8 +14,12 @@
   }
 }
 
-figure.audio-player {
-  audio {
-    width: 100%;
-  }
+figure.audio-player audio {
+  width: 100%;
+}
+
+.grid-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10em, 1fr));
+  grid-gap: 0.3em;
 }

@@ -1,0 +1,3 @@
+<section class="grid-list">
+{{- range split .Inner "\n" -}}<span>{{- . | markdownify -}}</span>{{- end -}}
+</section>
