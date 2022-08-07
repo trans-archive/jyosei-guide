@@ -1,0 +1,6 @@
+{{- range .Pages }}
+<link rel="prerender" href="{{ .Permalink }}">
+{{- end }}
+{{- range .Resources }}
+<link rel="prefetch" href="{{ .Permalink }}">
+{{- end }}
