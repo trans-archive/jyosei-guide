@@ -4,6 +4,8 @@ weight: 4
 description: 第四章 具体的练习方法 - 成为女孩子的声音！
 ---
 
+<!-- markdownlint-disable MD051 -->
+
 [stage-0]: #stage-0
 [stage-1]: #stage-1
 [stage-2]: #stage-2
