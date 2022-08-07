@@ -1,6 +1,7 @@
 ---
 title: 附录 3：发声样式
 weight: 103
+bookToC: false
 description: 附录 3：发声样式 - 成为女孩子的声音！
 ---
 
