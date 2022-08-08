@@ -18,7 +18,7 @@ description: 附录 5：以音乐锻炼假声 - 成为女孩子的声音！
 
 - 请以 **正常的**假声 进行练习\
   [我的歌声里 - 曲婉婷](https://youtu.be/w0dMz8RBG7g)（[伴奏](https://youtu.be/ik2hFMD0bKE)，独唱 - 女）
-- 请以 **正常的**假声，和 **较高的**假声 进行练习\
+- 请以 **正常的**假声 和 **较高的**假声 进行练习\
   [小情歌 - 苏打绿](https://youtu.be/in8NNzwFa-s) （[伴奏](https://youtu.be/m4gPW7IcXUU)，独唱 - 男）\
   [当你 - 林俊杰](https://youtu.be/aFd8EluIJV8) （[伴奏](https://youtu.be/Y6SBN0w0ggc)，独唱 - 男） \
   [樱花草 - Sweety](https://youtu.be/vYcl7cw8gWo) （[伴奏](https://youtu.be/AEVVtC2qtbo)，独唱 - 女）
@@ -33,9 +33,9 @@ description: 附录 5：以音乐锻炼假声 - 成为女孩子的声音！
   [夕暮れ - THE ROLLING GIRLS](https://youtu.be/kT42y5x58nw)（[伴奏](https://youtu.be/LhOvttIcEmo)）
 - 请以 **较高的**假声 进行练习\
   [僕たちはひとつの光 - μ's](https://youtu.be/RcYtUeu4EqQ)（[伴奏](https://youtu.be/dYwV2QuwJnE)）
-- 请以 **正常的**假声，和 **较低的**假声 进行练习\
+- 请以 **正常的**假声 和 **较低的**假声 进行练习\
   [Freesia - (K)NoW_NAME](https://youtu.be/0RpfxB4CkDg)（[伴奏](https://youtu.be/XUmw9Vx4mbw)）
-- 请以 **正常的**假声，和 **较高的**假声 进行练习\
+- 请以 **正常的**假声 和 **较高的**假声 进行练习\
   [キセキ～未来へ～ - whiteeeen](https://youtu.be/RbdJwV7wFr4)\
   [僕らの手はなにもないけど、 - RAM WIRE](https://youtu.be/TXpGWhdwXuo) （[伴奏](https://youtu.be/O5A4DkNOEdg)）
 - 男声部分以 **较低的**假声，女声部分以 **正常的**假声 进行练习\
