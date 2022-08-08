@@ -120,28 +120,28 @@ XXX，你在干什么呢！
 
 可以在伪声练习前后测试自己的音高，判断训练效果。
 
-{{< tabs "voice-recorder" >}}
-{{< tab "Windows / macOS" >}}
+{{< details "PC" >}}
 
 - [Adobe Audition](https://www.adobe.com/products/audition.html)
 - [Friture](https://friture.org)
 - [Praat](https://www.fon.hum.uva.nl/praat)
 
-{{< /tab >}}
-{{< tab "Android" >}}
+{{< /details >}}
+
+{{< details "Android" >}}
 
 - [Voice Tools](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
-{{< /tab >}}
-{{< tab "iOS / iPad OS" >}}
+{{< /details >}}
+
+{{< details "iOS / iPad OS" >}}
 
 - [Voice Tools](https://apps.apple.com/app/id1447495900)
-- [Vocal Pitch Monitor 4+](https://apps.apple.com/app/id842218231)
+- [Vocal Pitch Monitor](https://apps.apple.com/app/id842218231)
 - [Singscope](https://apps.apple.com/app/id944309175)
 
-{{< /tab >}}
-{{< /tabs >}}
+{{< /details >}}
 
 **Adobe Audition 使用方法**
 
