@@ -5,8 +5,6 @@ bookToC: false
 description: 该系列图书结合了 插画、音频 和 基础训练手段 的 伪声训练书籍，同时也有让声音变得更好听的效果。
 ---
 
-{{< columns >}}
-
 本项目是基于 <https://www.zhihu.com/column/weisheng> 的重新整理
 
 如需转载授权或有其他疑问请通过 <nao@sakuras.jp> 联系译者（佐倉 奈緒）
