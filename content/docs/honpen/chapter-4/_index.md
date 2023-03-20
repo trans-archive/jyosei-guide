@@ -187,7 +187,7 @@ description: 第四章 具体的练习方法 - 成为女孩子的声音！
 > 编辑注：{{< timeliness-tip >}}，
 > Sony MDR-CD900ST（上市于 1989 年） 的下一代产品为 Sony MDR-M1ST（上市于 2019 年）
 >
-> 您可以在 [监听耳机的选购](https://github.com/mtf-wiki/jyosei-guide/discussions/2) 做进一步的讨论
+> 您可以在 [监听耳机的选购](https://github.com/project-trans/jyosei-guide/discussions/2) 做进一步的讨论
 
 {{< figure src="figure-01.jpg" title="图 01" >}}
 

@@ -120,7 +120,7 @@ description: 第三章 练习开始之前 - 成为女孩子的声音！
 同时还需要被称作为幻象电源这种特殊的电源，同时因为容易产生爆破声（向麦克风吹气时产生的噪音）需要叫做防喷罩的东西挡住这些东西。
 有着各种各样的麻烦。整体来说价格较高。
 
-> 编辑注，您可以在 [专业麦克风的选购](https://github.com/mtf-wiki/jyosei-guide/discussions/4) 做进一步的讨论
+> 编辑注，您可以在 [专业麦克风的选购](https://github.com/project-trans/jyosei-guide/discussions/4) 做进一步的讨论
 
 {{< /details >}}
 {{< details "电脑用麦克风" >}}

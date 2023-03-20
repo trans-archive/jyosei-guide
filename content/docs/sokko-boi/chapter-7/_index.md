@@ -114,7 +114,7 @@ description: 第七章 实录篇 - 成为女孩子的声音！即效嗓音训练
 
 因为是专业的歌手使用的器材，可以拾取细小的声音，同时价格也相对较高，是动圈式麦克风的数倍价格。
 
-> 编辑注，您可以在 [专业麦克风的选购](https://github.com/mtf-wiki/jyosei-guide/discussions/4) 做进一步的讨论
+> 编辑注，您可以在 [专业麦克风的选购](https://github.com/project-trans/jyosei-guide/discussions/4) 做进一步的讨论
 
 {{< /details >}}
 
