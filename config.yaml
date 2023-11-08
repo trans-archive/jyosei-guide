@@ -1,6 +1,6 @@
 title: 成为女孩子的声音！
 description: 该系列图书结合了 插画、音频 和 基础训练手段 的 伪声训练书籍，同时也有让声音变得更好听的效果。
-baseURL: https://project-trans.github.io/jyosei-guide/
+baseURL: https://voice.mtf.wiki
 theme: hugo-book
 
 disableKinds: ["taxonomy", "taxonomyTerm", "RSS"]
